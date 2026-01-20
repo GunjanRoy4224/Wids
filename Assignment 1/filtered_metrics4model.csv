@@ -4,16 +4,13 @@ Profitability,PAT Margin (Net Profit Margin),Shows the percentage of revenue con
 Profitability,Return on Equity (ROE),Measures how efficiently shareholder capital generates profits.
 Profitability,Return on Capital Employed (ROCE),Evaluates how effectively the company utilizes its capital.
 Profitability,Return on Assets (ROA),Indicates how efficiently assets generate profits.
-Growth,Net Profit Growth,Captures the company's earnings growth over time.
-Growth,EPS Growth / Trend,Reflects the growth in earnings available to shareholders.
-Growth,EBITDA Margin CAGR,Measures long-term improvement in operating profitability.
-Growth,PAT Margin CAGR,Indicates sustained improvement in net profitability.
 Leverage,Debt-to-Equity Ratio,Measures financial leverage and capital structure risk.
 Leverage,Interest Coverage Ratio,Assesses the company's ability to meet interest obligations.
 Efficiency,Total Asset Turnover Ratio,Measures how efficiently assets generate revenue.
-Efficiency,Working Capital Turnover Ratio,Evaluates efficiency in utilizing working capital.
-Valuation,Price-to-Earnings (P/E) Ratio,Represents the market valuation relative to earnings.
+Efficiency,Working Capital Turnover Ratio,Evaluates the efficiency of converting working capital into sales.
+Valuation,Price-to-Earnings (P/E) Ratio,Represents the market valuation relative to company earnings.
+Valuation,Enterprise Value-to-Sales (EV-to-Sales),Measures enterprise value relative to revenue.
 Valuation,Price-to-Book (P/B) Ratio,Measures market value relative to the company's book value.
-Valuation,Discounted Cash Flow (DCF),Estimates the intrinsic value based on future cash flows.
+Valuation,Market Capitalization-to-Sales,Evaluates how the market values each unit of company revenue.
+Valuation,EPS Yield,Represents earnings generated per unit of market price and serves as the inverse of the P/E ratio.
 Valuation,Margin of Safety,Indicates the discount of market price from intrinsic value.
-Liquidity,Current Ratio,Measures the company's ability to meet short-term obligations.
